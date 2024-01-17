@@ -1,0 +1,13 @@
+{
+  "name": "sports-blog-news-website-using-html-css-javascript",
+  "version": "1.0.0",
+  "description": "This is a simple website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
